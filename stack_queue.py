@@ -20,3 +20,7 @@ queue.append(20)
 queue.append(30)
 
 print(queue)
+
+x = queue.popleft()
+print(queue)
+print(x)
