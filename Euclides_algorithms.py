@@ -21,3 +21,4 @@ def gdc(a,b):
 print(gdc(20,8))  #4
 print(gdc(21,7))  #7
 print(gdc(50,20)) #10
+print(gdc(1424, 3084)) # correct answer is 4
